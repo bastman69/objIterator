@@ -1,0 +1,19 @@
+{
+    "name": "kostas/object-iterator",
+    "description": "Object Property Iterator",
+    "authors": [
+        {
+            "name": "kostas bastas",
+            "email": "costasbastas@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
